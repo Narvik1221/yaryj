@@ -92,9 +92,6 @@ html {
   text-align: left;
 }
 
-.trener {
-}
-
 .trener__inner {
   display: flex;
   gap: 24px;
@@ -139,10 +136,6 @@ html {
   line-height: 27px;
   letter-spacing: 0em;
   text-align: left;
-}
-.trener__left-img {
-}
-.trener__right-img {
 }
 .trener__left-text {
   text-transform: uppercase;
@@ -581,8 +574,6 @@ html {
 
   max-width: 410px;
 }
-.footer__images img {
-}
 .footer__images {
   display: flex;
   gap: 45px;
@@ -597,8 +588,7 @@ html {
   width: 30px;
   height: 30px;
 }
-.footer__images div {
-}
+
 .footer__item.minus,
 .footer__item.last {
   margin-top: 42px;
